@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "kanakaraju",
+      "email": "raju@gmail.com",
+      "mobile": 9666323762
+    },
+    {
+      "id": 2,
+      "name": "madhu",
+      "email": "madhu@gmail.com",
+      "mobile": 9777323762
+    },
+    {
+      "id": 3,
+      "name": "Rajanna",
+      "email": "rajanna@gmail.com",
+      "mobile": 9676999772
+    },
+    {
+      "id": 4,
+      "name": "sai",
+      "email": "sai@gmail.com",
+      "mobile": 9676323762
+    },
+    {
+      "id": 5,
+      "name": "sagar",
+      "email": "sagar@gmail.com",
+      "mobile": 7666323761
+    },
+    {
+      "id": 6,
+      "name": "Srinivas",
+      "email": "srinu@gmail.com",
+      "mobile": 8666323762
+    },
+    {
+      "id": 7,
+      "name": "chandhu",
+      "email": "chandhu@gmail.com",
+      "mobile": 9000323143
+    },
+    {
+      "name": "santhu",
+      "email": "santhu@gmail.com",
+      "mobile": 898798789,
+      "id": 9
+    },
+    {
+      "name": "santhu",
+      "email": "",
+      "mobile": 898798789,
+      "id": 10
+    },
+    {
+      "name": "santhu",
+      "email": "santhu@gmail.com",
+      "mobile": 898798789,
+      "id": 11
+    },
+    {
+      "name": "santhu",
+      "email": "santhu@gmail.com",
+      "mobile": 898798789,
+      "id": 12
+    },
+    {
+      "name": "santhu",
+      "email": "santhu@gmail.com",
+      "mobile": 898798789,
+      "id": 13
+    },
+    {
+      "name": "santhu",
+      "email": "santhu@gmail.com",
+      "mobile": 898798789,
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
